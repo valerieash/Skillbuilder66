@@ -28,7 +28,7 @@ public class SkillBuilder6 {
     /**
      * Finds the location in array anArray where value is located.  If anArray
      * does not contain an element equal to value a -1 is returned; otherwise a
-     * positive or zero index value is returned.
+     * posiive or zero index value is returned.
      *
      * @param searchValue value to look for in the array
      * @param anArray     array in which to look for a value
